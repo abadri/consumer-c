@@ -1,0 +1,22 @@
+{
+  "name": "@abadri-test/consumer-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abadri/consumer-c.git"
+  },
+  "author": "abadri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abadri/consumer-c/issues"
+  },
+  "homepage": "https://github.com/abadri/consumer-c#readme",
+  "dependencies": {
+    "@abadri-test/my-yarn-test": "^1.3.0"
+  }
+}
